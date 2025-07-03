@@ -1,5 +1,7 @@
 Cek pos aslinya: https://forum.level1techs.com/t/2-gamers-1-gpu-with-hyper-v-gpu-p-gpu-partitioning-finally-made-possible-with-hyperv/172234
 
+Cek pos lanjutannya untuk windows 11: https://forum.level1techs.com/t/2-gamers-1-gpu-with-hyper-v-gpu-p-gpu-partitioning-finally-made-possible-with-hyperv/172234/137
+
 Cek video ini untuk tutorial lengkapnya:
 
 Step yang dibutuhkan:
