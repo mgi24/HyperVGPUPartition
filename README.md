@@ -22,3 +22,7 @@ Step yang dibutuhkan:
 14. tambahan install VB Cable biar bisa keluar suaranya https://vb-audio.com/Cable/
 15. tambahan install parsec https://parsec.app/ untuk remote (agar bisa keluar suara juga)
 16. done
+
+Cara remove GPU partition klo mau reset:
+
+Remove-VMGpuPartitionAdapter -VMName $vm
