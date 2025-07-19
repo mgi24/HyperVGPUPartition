@@ -19,9 +19,10 @@ Step yang dibutuhkan:
 11. verifikasi nilainya samakan dengan hasil di langkah no.7 jika nilainya 0, ubah ke 80000000
 12. di bagian bawah powershell ISE, ketik Set-ExecutionPolicy Unrestricted lalu enter, pilih YES TO ALL ![image](https://github.com/user-attachments/assets/908e5c06-ab93-4b6b-9ff4-e16e012b941c)
 13. klik run di atas dan done!
-14. tambahan install VB Cable biar bisa keluar suaranya https://vb-audio.com/Cable/
-15. tambahan install parsec https://parsec.app/ untuk remote (agar bisa keluar suara juga)
-16. done
+14. Cek apakah sudah berhasil partisi GPUnya dengan Get-VMGpuPartitionAdapter -VMName $vm
+15. tambahan install VB Cable biar bisa keluar suaranya https://vb-audio.com/Cable/
+16. tambahan install parsec https://parsec.app/ untuk remote (agar bisa keluar suara juga)
+17. done
 
 Cara remove GPU partition klo mau reset:
 
