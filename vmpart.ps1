@@ -8,3 +8,5 @@ Set-VMGpuPartitionAdapter -VMName $vm -MinPartitionVRAM 80000000 -MaxPartitionVR
 Set-VM -GuestControlledCacheTypes $true -VMName $vm
 Set-VM -LowMemoryMappedIoSpace 1Gb -VMName $vm
 Set-VM -HighMemoryMappedIoSpace 32GB -VMName $vm
+
+Get-VMGpuPartitionAdapter -VMName $vm
